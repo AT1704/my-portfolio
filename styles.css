@@ -20,7 +20,11 @@ section {
   border-radius: 8px;
 }
 
-h1, h2 {
+h1 {
+  color: #005f99; /* Customize as desired */
+}
+
+h2 {
   color: #333;
 }
 
